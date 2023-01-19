@@ -31,3 +31,4 @@ for applicationID in applicationIDs:
             if 'message' in error:
                 print("\n"+error['message']+"\n")
 
+input('Press ENTER to exit')
